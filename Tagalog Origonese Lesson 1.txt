@@ -1,0 +1,44 @@
+Tagalog Origonese:
+ Lesson 1
+
+Foundational Pronouns, Greetings, and Basic Responses
+
+Welcome to Tagalog Origonese! This branch of Origonese bridges classic Tagalog roots with the structural magic and simplicity of universal Origonese.
+In this lesson, you will learn how Origonese simplifies Tagalog pronouns into a single universal word, how to greet others, and how to answer basic questions about how you are feeling.
+
+1. The Universal Pronoun: Ori
+In standard Tagalog, there are many distinct pronouns depending on gender, perspective, and formality (Ako, Ikaw, Siya, Lalaki, Babae). In all forms of Origonese, every single personal pronoun collapses into one universal word: Ori.
+Tagalog Concept	Standard Meaning	Tagalog Origonese
+Ako	I / Me	Ori
+Ikaw / Ka	You	Ori
+Siya	He / She	Ori
+Lalaki	Man / Male	Ori
+Babae	Woman / Female	Ori
+Key Rule: Whether referring to yourself, someone else, a man, a woman, or a collective group, the pronoun is always Ori.
+
+
+2. Universal Greetings & Tagalog Expressions
+•	Obololo!
+o	Meaning: Hello!
+o	Usage: Obololo! is the universal greeting across every dialect and sub-language of Origonese worldwide.
+•	O-komosto-lo? / O-komosto-lolo?
+o	Tagalog Root: Kumusta? (How are you?)
+o	Meaning: How are you? / How are things going?
+o	Formality Distinction:
+	O-komosto-lo? — Standard, casual greeting ("How are you?").
+	O-komosto-lolo? — Emphatic or polite greeting, asking with deeper care ("How are you doing today?").
+3. Basic Responses & States
+To answer how you are doing, combine the transformed Tagalog state with your pronoun Ori:
+•	O-masayo-lo ori. (Oh-mah-sah-yo-loh)
+o	Standard Tagalog: Masaya ako.
+o	Meaning: I am happy.
+•	O-macuti-lo ori. (Oh-mah-cute-ee-loh)
+o	Standard Tagalog: Mabuti ako.
+o	Meaning: I am good.
+4. Sample Conversation
+Person A: Obololo! O-komosto-lo?
+(Hello! How are you?)
+Person B: Obololo! O-masayo-lo ori!
+(Hello! I am happy!)
+
+Owobolo! Tagalog Origonese Learners see you in Lesson 2!! 😊
